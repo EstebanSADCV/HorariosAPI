@@ -1,0 +1,727 @@
+                                                                        UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO
+                                                                           CENTRO UNIVERSITARIO UAEM ZUMPANGO
+                                                                                 INGENIERIA EN COMPUTACIÓN
+                                                                                       TURNO MATUTINO
+                                                                                                                                                                  FECHA:   09 de enero de 2020
+
+PERIODO                                      SEGUNDO MATUTINO                                    LUN.         MAR.         MIER.         JUE.         VIER.       SAB.     NO. MOV.   NO. DE P.   OBSERVACIONES
+                                                                CRED.          HORAS
+ CLAVE MATERIA         UNIDAD DE APRENDIZAJE
+                                                                         H.T           H.P.
+                                                                  7
+    LINC01              Álgebra Lineal (Grupo TM)                         3             1                   9:00-11:00                               7:00-9:00                *           *             *
+
+                                                                RFC
+  PROFESOR            Ing. Isaac Velázquez Hernández
+                                                                 N.E.             *
+
+
+                                                                CRED.          HORAS
+ CLAVE MATERIA         UNIDAD DE APRENDIZAJE
+                                                                         H.T           H.P.
+                                                                  7
+    LINC04                Cálculo II (Grupo TM)                           3             1     11:00-13:00                             11:00-13:00                             *           *             *
+
+                                                                RFC       GAJI780529AA9
+  PROFESOR               Ing. Israel García Juárez
+                                                                 N.E.             *
+
+                                                                CRED.          HORAS
+ CLAVE MATERIA         UNIDAD DE APRENDIZAJE
+                                                                         H.T           H.P.
+                                                                  7
+    LINC07         Ecuaciones Diferenciales (Grupo TM)                    3             1                                             9:00-11:00    9:00-11:00                *           *             *
+
+                                                                RFC       TULM760407L37
+  PROFESOR             Dr. José Manuel Trujillo Lara
+                                                                 N.E.             *
+
+
+                                                                CRED.          HORAS
+ CLAVE MATERIA         UNIDAD DE APRENDIZAJE
+                                                                         H.T           H.P.
+                                                                  7
+    LINC10              Epistemología (Grupo TM)                          3             1      7:00-9:00                 7:00-9:00                                            *           *            *
+
+                                                                RFC
+  PROFESOR          Lic. Karen Brizeida Martínez Castro
+                                                                 N.E.             *
+
+
+                                                                CRED.          HORAS
+ CLAVE MATERIA         UNIDAD DE APRENDIZAJE
+                                                                         H.T           H.P.
+                                                                  6
+    LMU209                 Inglés 5 (Grupo TM)                            2             2     9:00-11:00                 9:00-11:00                                           *           *             *
+
+                                                                RFC
+  PROFESOR              Lic. Yossy García Ramírez
+                                                                 N.E.             *
+
+
+                                                                CRED.          HORAS
+ CLAVE MATERIA         UNIDAD DE APRENDIZAJE
+                                                                         H.T           H.P.
+                                                                  7
+    LINC35              Programación II (Grupo M1)                        3             1                   7:00-9:00                  7:00-9:00                              *           *             *
+
+                                                                RFC           RELR850625
+  PROFESOR          M. en Ed. Rosa Erendira Reyes Luna
+                                                                 N.E.             *
+
+
+                                                                CRED.          HORAS
+ CLAVE MATERIA         UNIDAD DE APRENDIZAJE
+                                                                         H.T           H.P.
+                                                                  7
+    LINC35              Programación II (Grupo M2)                        3             1                   7:00-9:00                  7:00-9:00                              *           *             *
+
+                                                                RFC       DOUG8403355Z9
+  PROFESOR       M. en C. María Guadalupe Domínguez Urban
+                                                                 N.E.             *
+
+
+                                                                CRED.          HORAS
+ CLAVE MATERIA         UNIDAD DE APRENDIZAJE
+                                                                         H.T           H.P.
+                                                                  7
+    LINC29                 Química (Grupo TM)                             3             1                   11:0-13:00                              11:00-13:00               *           *             *
+
+                                                                RFC
+  PROFESOR         Mtra. Cecilia Artemisa Rivero Gómez
+                                                                 N.E.             *
+                                                                     UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO
+                                                                        CENTRO UNIVERSITARIO UAEM ZUMPANGO
+                                                                              INGENIERIA EN COMPUTACIÓN
+                                                                                   TURNO VESPERTINO
+                                                                                                                                                                 FECHA:   09 de enero de 2020
+
+PERIODO                                 SEGUNDO VESPERTINO                                    LUN.          MAR.         MIER.          JUE.         VIER.       SAB.     NO. MOV.   NO. DE P.   OBSERVACIONES
+                                                             CRED.          HORAS
+ CLAVE MATERIA      UNIDAD DE APRENDIZAJE
+                                                                      H.T           H.P.
+                                                               7
+    LINC01            Álgebra Lineal (Grupo TV)                        3             1                                 16:00-18:00                 16:00-18:00               *           *             *
+
+                                                             RFC       KUML660216Z3
+  PROFESOR          M. en C. Luis Enrique Kú Moo
+                                                              N.E.            *
+
+
+                                                             CRED.          HORAS
+ CLAVE MATERIA      UNIDAD DE APRENDIZAJE
+                                                                      H.T           H.P.
+                                                               7
+    LINC04              Cálculo II (Grupo TV)                          3             1                   16:00-18:00 18:00-20:00                                             *           *             *
+
+                                                             RFC       TULM760407L37
+  PROFESOR          Dr. José Manuel Trujillo Lara
+                                                              N.E.            *
+
+
+                                                             CRED.          HORAS
+ CLAVE MATERIA      UNIDAD DE APRENDIZAJE
+                                                                      H.T           H.P.
+                                                               7
+    LINC07       Ecuaciones Diferenciales (Grupo TV)                   3             1                                               14:00-16:00 14:00-16:00                 *           *             *
+
+                                                             RFC       AEVH490616MU6
+  PROFESOR        M. en C. Manuel Almeida Vázquez
+                                                              N.E.            *
+
+
+                                                             CRED.          HORAS
+ CLAVE MATERIA      UNIDAD DE APRENDIZAJE
+                                                                      H.T           H.P.
+                                                               7
+    LINC10            Epistemología (Grupo TV)                         3             1     16:00-18:00                 14:00-16:00                                           *           *            *
+
+                                                             RFC
+  PROFESOR             Lic. Carlos Flores Moya
+                                                              N.E.            *
+
+
+                                                             CRED.          HORAS
+ CLAVE MATERIA      UNIDAD DE APRENDIZAJE
+                                                                      H.T           H.P.
+                                                               6
+    LMU209              Inglés 5 (Grupo TV)                            2             2                   18:00-20:00                 16:00-18:00                             *           *             *
+
+                                                             RFC
+  PROFESOR         Ing. Isaac Velázquez Hernández
+                                                              N.E.            *
+
+
+                                                             CRED.          HORAS
+ CLAVE MATERIA      UNIDAD DE APRENDIZAJE
+                                                                      H.T           H.P.
+                                                               7
+    LINC35           Programación II (Grupo V1)                        3             1     14:00-16:00 14:00-16:00                                                           *           *             *
+
+                                                             RFC       LOCA740606S33
+  PROFESOR            Dr. Asdrúbal López Chau
+                                                              N.E.            *
+
+
+                                                             CRED.          HORAS
+ CLAVE MATERIA      UNIDAD DE APRENDIZAJE
+                                                                      H.T           H.P.
+                                                               7
+    LINC35           Programación II (Grupo V2)                        3             1     14:00-16:00 14:00-16:00                                                           *           *             *
+
+                                                             RFC       HELE831015UW9
+  PROFESOR       M. en C. Edith Cristina Herrera Luna
+                                                              N.E.            *
+
+
+                                                             CRED.          HORAS
+ CLAVE MATERIA      UNIDAD DE APRENDIZAJE
+                                                                      H.T           H.P.
+                                                               7
+    LINC29              Química (Grupo TV)                             3             1     18:00-20:00                               18:00-20:00                             *           *             *
+
+                                                             RFC
+  PROFESOR                    Vacante
+                                                              N.E.            *
+                                                                          UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO
+                                                                             CENTRO UNIVERSITARIO UAEM ZUMPANGO
+                                                                                   INGENIERIA EN COMPUTACIÓN
+                                                                                         TURNO MATUTINO
+                                                                                                                                                                        FECHA:     09 de enero de 2020
+
+PERIODO                                         CUARTO MATUTINO                                    LUN.          MAR.         MIER.          JUE.         VIER.         SAB.       NO. MOV.   NO. DE P.   OBSERVACIONES
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    6
+    L41109                  Cálculo 3 (Grupo TM)                            3             0                   11:00-14:00                                                                                       *
+
+                                                                  RFC
+  PROFESOR                Ing. Israel García Juarez
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    9
+    L41034             Circuitos Eléctricos (Grupo TM)                      4             1                                               8:00-10:00    8:00-11:00                                            PTC
+
+                                                                  RFC       TUMV7901211C1
+  PROFESOR              M. en C. Valentín Trujillo Mora
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    6
+    L41061       Fundamentos de Bases de Datos (Grupo TM)                   2             2      7:00-9:00                   7:00-9:00                                                                          *
+
+                                                                  RFC           RELR850625
+  PROFESOR           M. en Ed. Rosa Erendira Reyes Luna
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    7
+    L41004         Investigación de Operaciones (Grupo TM)                  3             1     12:00-14:00                 9:00-11:00                                                                        TATC
+
+                                                                  RFC           LECA590827
+  PROFESOR                 Ing. Armando Leal Cruz
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    3
+    L41047            Lenguaje Ensamblador (Grupo TM)                       1             1                                 11:00-13:00                                                                         *
+
+                                                                  RFC       DOUG8403355Z9
+  PROFESOR       M. en C. María Guadalupe Domínguez Urban
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    8
+    L41056       Programación Orientada a Objetos (Grupo TM)                3             2     9:00-12:00                                10:00-12:00                                                           *
+
+                                                                  RFC       HELE831015UW9
+  PROFESOR           M. en C. Edith Cristina Herrera Luna
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    8
+    L41040            Transmisión de Datos (Grupo TM)                       3             2                   9:00-11:00                                11:00-14:00                                             *
+
+                                                                  RFC       LOVN859209R84
+  PROFESOR           Ing. Nadia Yanet Julia López Villlegas
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    6
+    L00070                        Inglés C2                                 2             2                                                                           7:00-11:00                                *
+
+                                                                  RFC
+  PROFESOR                        Vacante
+                                                                   N.E.             *
+                                                                          UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO
+                                                                             CENTRO UNIVERSITARIO UAEM ZUMPANGO
+                                                                                   INGENIERIA EN COMPUTACIÓN
+                                                                                        TURNO VESPERTINO
+                                                                                                                                                                      FECHA:   09 de enero de 2020
+
+PERIODO                                       CUARTO VESPERTINO                                    LUN.          MAR.         MIER.          JUE.         VIER.       SAB.     NO. MOV.   NO. DE P.   OBSERVACIONES
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    6
+    L41109                  Cálculo 3 (Grupo TV)                            3             0     17:00-20:00                                                                                                 *
+
+                                                                  RFC       TULM760407L37
+  PROFESOR            M. en C. José Manuel Trujillo Lara
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    9
+    L41034             Circuitos Eléctricos (Grupo TV)                      4             1                                 16:00-18:00                 16:00-19:00                                         *
+
+                                                                  RFC
+  PROFESOR             Ing. Isaac Velázquez Hernández
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    6
+    L41061       Fundamentos de Bases de Datos (Grupo TV)                   2             2                   16:00-18:00                 15:00-17:00                                                       *
+
+                                                                  RFC       HELE831015UW9
+  PROFESOR           M. en C. Edith Cristina Herrera Luna
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    7
+    L41004         Investigación de Operaciones (Grupo TV)                  3             1                                 14:00-16:00                 14:00-16:00                                         *
+
+                                                                  RFC       KUML660216Z3
+  PROFESOR              M. en C. Luis Enrique Kú Moo
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    3
+    L41047            Lenguaje Ensamblador (Grupo TV)                       1             1                                 18:00-20:00                                                                     *
+
+                                                                  RFC           FOMJ671225
+  PROFESOR                 Ing. Jesús Flores Maya
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    8
+    L41056       Programación Orientada a Objetos (Grupo TV)                3             2                   18:00-20:00                 17:00-20:00                                                       *
+
+                                                                  RFC           RELR850625
+  PROFESOR           M. en Ed. Rosa Erendira Reyes Luna
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA          UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    8
+    L41040            Transmisión de Datos (Grupo TV)                       3             2     14:00-17:00 14:00-16:00                                                                                     *
+
+                                                                  RFC
+  PROFESOR                        Vacante
+                                                                   N.E.             *
+                                                                                      UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO
+                                                                                         CENTRO UNIVERSITARIO UAEM ZUMPANGO
+                                                                                               INGENIERIA EN COMPUTACIÓN
+                                                                                                    TURNO MATUTINO
+                                                                                                                                                                                  FECHA:   09 de enero de 2020
+
+PERIODO                                                      SEXTO MATUTINO                                      LUN.          MAR.        MIER.         JUE.         VIER.       SAB.     NO. MOV.   NO. DE P.   OBSERVACIONES
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                9
+     L41048                          Compiladores (Grupo TM)                             4              1     10:00-12:00                7:00-10:00                                                                     *
+
+                                                                              RFC        DOUG8403355Z9
+   PROFESOR                  M. en C. María Guadalupe Domínguez Urban
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                8
+     L41088                        Electrónica Digital (Grupo TM)                        3              2                                             10:00-12:00   8:00-11:00                                          *
+
+                                                                              RFC        QUGA810422DG7
+   PROFESOR                         Ing. Alejandro Quintero García
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                7
+     L41045                        Modelos de Redes (Grupo TM)                           3              1                                11:00-13:00 12:00-14:00                                                      TATC
+
+                                                                              RFC         BALJ751215DG0
+   PROFESOR                          M.T.I. Jorge Bautista López
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                5
+     L41071                Sistemas Gestores de Bases de Datos (Grupo TM)                1              3                   8:00-10:00                8:00-10:00                                                        *
+
+                                                                              RFC        HELE831015UW9
+   PROFESOR                      M. en C. Edith Cristina Herrera Luna
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                9
+     L41049                       Sistemas Operativos (Grupo TM)                         4              1     7:00-10:00 12:00-14:00                                                                                    *
+
+                                                                              RFC        DOUG8403355Z9
+   PROFESOR                  M. en C. María Guadalupe Domínguez Urban
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                6
+     L41007                        Teoría de Sistemas (Grupo TM)                         3              0                   10:00-12:00 10:00-11:00                                                                     *
+
+                                                                              RFC        LOVN859209R84
+   PROFESOR                      Ing. Nadia Yanet Julia López Villlegas
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                5
+     L41005                     Tratamiento de Imágenes (Grupo TM)                       2              1                                                           11:00-14:00                                         *
+
+                                                                              RFC        AEVH490616MU6
+   PROFESOR                       M. en C. Manuel Almeida Vázquez
+                                                                               N.E.              *
+
+
+
+NOTA: Para esté periodo el horario se completa con las Unidades de Aprendizaje de línea de acentuación (Multimedia e Interconexión de Redes)
+                                                                                      UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO
+                                                                                         CENTRO UNIVERSITARIO UAEM ZUMPANGO
+                                                                                               INGENIERIA EN COMPUTACIÓN
+                                                                                                    TURNO VESPERTINO
+                                                                                                                                                                                    FECHA:   09 de enero de 2020
+
+PERIODO                                                    SEXTO VESPERTINO                                      LUN.          MAR.         MIER.          JUE.         VIER.       SAB.     NO. MOV.   NO. DE P.   OBSERVACIONES
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                9
+     L41048                          Compiladores (Grupo TV)                             4              1                   16:00-18:00                 15:00-18:00                                                       *
+
+                                                                              RFC        QUGA810422DG7
+   PROFESOR                         Ing. Alejandro Quintero García
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                8
+     L41088                        Electrónica Digital (Grupo TV)                        3              2                                 15:00-18:00 13:00-15:00                                                       PTC
+
+                                                                              RFC        TUMV7901211C1
+   PROFESOR                        M. en C. Valentín Trujillo Mora
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                7
+     L41045                        Modelos de Redes (Grupo TV)                           3              1                   18:00-20:00                               16:00-18:00                                       TATC
+
+                                                                              RFC            ROHC760722
+   PROFESOR                     M.T.I. Carlos Alberto Rojas Hernández
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                5
+     L41071                Sistemas Gestores de Bases de Datos (Grupo TV)                1              3     18:00-20:00                 18:00-20:00                                                                     *
+
+                                                                              RFC            RELR850625
+   PROFESOR                     M. en Ed. Rosa Erendira Reyes Luna
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                9
+     L41049                       Sistemas Operativos (Grupo TV)                         4              1     14:00-17:00 13:00-15:00                                                                                     *
+
+                                                                              RFC        AEVH490616MU6
+   PROFESOR                      M. en C. Manuel Almeida Vázquez
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                6
+     L41007                        Teoría de Sistemas (Grupo TV)                         3              0                   15:00-16:00                               14:00-16:00                                         *
+
+                                                                              RFC        LOVN859209R84
+   PROFESOR                     Ing. Nadia Yanet Julia López Villlegas
+                                                                               N.E.              *
+
+
+                                                                              CRED.            HORAS
+ CLAVE MATERIA                      UNIDAD DE APRENDIZAJE
+                                                                                         H.T           H.P.
+                                                                                5
+     L41005                     Tratamiento de Imágenes (Grupo TV)                       2              1     17:00-18:00                               18:00-20:00                                                     PTC
+
+                                                                              RFC        ROHR780124IM9
+   PROFESOR                       M. en C. Rafael Rojas Hernández
+                                                                               N.E.              *
+
+
+
+NOTA: Para esté periodo el horario se completa con las Unidades de Aprendizaje de línea de acentuación (Multimedia e Interconexión de Redes)
+                                                                                             UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO
+                                                                                                CENTRO UNIVERSITARIO UAEM ZUMPANGO
+                                                                                                      INGENIERIA EN COMPUTACIÓN
+                                                                                                            TURNO MATUTINO
+                                                                                                                                                                                         FECHA:     09 de enero de 2020
+
+PERIODO                                                      OCTAVO MATUTINO                                          LUN.          MAR.         MIER.        JUE.         VIER.         SAB.       NO. MOV.   NO. DE P.   OBSERVACIONES
+                                                                                     CRED.          HORAS
+ CLAVE MATERIA                       UNIDAD DE APRENDIZAJE
+                                                                                              H.T           H.P.
+                                                                                       6
+     L41051           Administración y Seguridad de Sistemas Operativos (Grupo TM)             3             0                                 11:00-12:00 10:00-12:00                                                            *
+
+                                                                                     RFC       AARH840810SX5
+   PROFESOR                          Ing. Hazem Álvarez Rodríguez
+                                                                                      N.E.            *
+
+                                                                                     CRED.          HORAS
+ CLAVE MATERIA                       UNIDAD DE APRENDIZAJE
+                                                                                              H.T           H.P.
+                                                                                       9
+     L41043                      Análisis y Diseño de Redes (Grupo TM)                         4             1                   11:00-14:00                             9:00-11:00                                               *
+
+                                                                                     RFC       LOVN859209R84
+   PROFESOR                       Ing. Nadia Yanet Julia López Villlegas
+                                                                                      N.E.            *
+
+                                                                                     CRED.          HORAS
+ CLAVE MATERIA                       UNIDAD DE APRENDIZAJE
+                                                                                              H.T           H.P.
+                                                                                       8
+     L41038                    Arquitectura de Computadoras (Grupo TM)                         3             2                   9:00-11:00                7:00-10:00                                                         Definitivo
+
+                                                                                     RFC       QUGA810422DG7
+   PROFESOR                          Ing. Alejandro Quintero García
+                                                                                      N.E.            *
+
+
+                                                                                     CRED.          HORAS
+ CLAVE MATERIA                       UNIDAD DE APRENDIZAJE
+                                                                                              H.T           H.P.
+                                                                                       9
+     L41037                         Sistemas Digitales (Grupo TM)                              3             3     8:00-11:00                                            11:00-14:00                                            TATC
+
+                                                                                     RFC       BALJ751215DG0
+   PROFESOR                           M.T.I. Jorge Bautista López
+                                                                                      N.E.            *
+
+                                                                                     CRED.          HORAS
+ CLAVE MATERIA                       UNIDAD DE APRENDIZAJE
+                                                                                              H.T           H.P.
+                                                                                       8
+     L41057                  Programación Paralela y Distribuida (Grupo TM)                    3             2     11:00-14:00                             12:00-14:00                                                        Definitivo
+
+                                                                                     RFC       AEVH490616MU6
+   PROFESOR                        M. en C. Manuel Almeida Vázquez
+                                                                                      N.E.            *
+
+
+                                                                                     CRED.          HORAS
+ CLAVE MATERIA                       UNIDAD DE APRENDIZAJE
+                                                                                              H.T           H.P.
+                                                                                       5
+     L41067                      Fundamentos de Robótica (Grupo TM)                            2             1                                                                         7:00-10:00                             Definitivo
+
+                                                                                     RFC
+   PROFESOR                       Ing. Diego Armando Ramírez Avelino
+                                                                                      N.E.            *
+
+
+
+NOTA: Para esté periodo el horario se completa con las Unidades de Aprendizaje de línea de acentuación (Algoritmos Genéticos e Instalaciones y Equipos)
+                                                                      UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO
+                                                                         CENTRO UNIVERSITARIO UAEM ZUMPANGO
+                                                                               INGENIERIA EN COMPUTACIÓN
+                                                                                         RECURSE
+                                                                                                                                                                  FECHA:   09 de enero de 2020
+
+PERIODO                                             RECURSE                                    LUN.          MAR.         MIER.          JUE.         VIER.       SAB.     NO. MOV.   NO. DE P.   OBSERVACIONES
+                                                              CRED.          HORAS
+ CLAVE MATERIA    UNIDAD DE APRENDIZAJE
+                                                                       H.T           H.P.
+                                                                6
+    L41002         Álgebra Lineal (Grupo R1)                            3             0                   11:00-14:00                                                                                 PTC
+
+                                                              RFC       ROHR780124IM9
+  PROFESOR       M. en C. Rafael Rojas Hernández
+                                                               N.E.             *
+
+
+                                                              CRED.          HORAS
+ CLAVE MATERIA    UNIDAD DE APRENDIZAJE
+                                                                       H.T           H.P.
+                                                                9
+    L41010            Cálculo 1 (Grupo R1)                             4.5            0                                 11:00-13:00                 11:00-13:30                                       PTC
+
+                                                              RFC       ROHR780124IM9
+  PROFESOR       M. en C. Rafael Rojas Hernández
+                                                               N.E.             *
+
+
+                                                              CRED.          HORAS
+ CLAVE MATERIA    UNIDAD DE APRENDIZAJE
+                                                                       H.T           H.P.
+                                                                8
+    L41054       Estructura de Datos (Grupo R1)                         3             2     10:00-12:00                               11:00-14:00                                                     PTC
+
+                                                              RFC       ROHR780124IM9
+  PROFESOR       M. en C. Rafael Rojas Hernández
+                                                               N.E.             *
+
+
+                                                              CRED.          HORAS
+ CLAVE MATERIA    UNIDAD DE APRENDIZAJE
+                                                                       H.T           H.P.
+                                                                9
+    L41020          Física Básica (Grupo R1)                           4.5            0                                 11:30-14:00 11:00-13:00                                                       PTC
+
+                                                              RFC       TUMV7901211C1
+  PROFESOR        M. en C. Valentín Trujillo Mora
+                                                               N.E.             *
+
+
+                                                              CRED.          HORAS
+ CLAVE MATERIA    UNIDAD DE APRENDIZAJE
+                                                                       H.T           H.P.
+                                                                9
+    L41020          Física Básica (Grupo R2)                           4.5            0                                 14:00-16:00                 14:00-16:30                                       TATC
+
+                                                              RFC           LECA590827
+  PROFESOR           Ing. Armando Leal Cruz
+                                                               N.E.             *
+
+
+                                                              CRED.          HORAS
+ CLAVE MATERIA    UNIDAD DE APRENDIZAJE
+                                                                       H.T           H.P.
+                                                                4
+    L41039           Metrología (Grupo R1)                              1             2                   1:00-14:00                                                                                  PTC
+
+                                                              RFC       TUMV7901211C1
+  PROFESOR        M. en C. Valentín Trujillo Mora
+                                                               N.E.             *
+                                                                          UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO
+                                                                             CENTRO UNIVERSITARIO UAEM ZUMPANGO
+                                                                                   INGENIERIA EN COMPUTACIÓN
+                                                                                      LÍNEAS DE ACENTUACIÓN
+                                                                                                                                                  FECHA:   09 de enero de 2020
+
+PERIODO                               INTERACCIÓN HOMBRE MÁQUINA                                   LUN.       MAR.     MIER.       JUE.   VIER.   SAB.     NO. MOV.   NO. DE P.   OBSERVACIONES
+                                                                  CRED.          HORAS
+ CLAVE MATERIA           UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    6
+    L41083             Multimedia (Grupo Optativa IHM)                      2             2     12:00-14:00          13:00-15:00                                                      PTC
+
+                                                                  RFC       ROHR780124IM9
+  PROFESOR             M. en C. Rafael Rojas Hernández
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA           UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    4
+    L41085        Algoritmos Genéticos (Grupo Optativa IHM)                 1             2                          8:00-11:00                                                       PTC
+
+                                                                  RFC       LOCA740606S33
+  PROFESOR                 Dr. Asdrúbal López Chau
+                                                                   N.E.             *
+
+
+
+PERIODO                                                  REDES                                     LUN.       MAR.     MIER.       JUE.   VIER.   SAB.     NO. MOV.   NO. DE P.   OBSERVACIONES
+                                                                  CRED.          HORAS
+ CLAVE MATERIA           UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    4
+    L41082       Interconexión de Redes (Grupo Optativa Redes)              1             2     12:00-14:00          14:00-15:00                                                      TATC
+
+                                                                  RFC           ROHC760722
+  PROFESOR           M.T.I. Carlos Alberto Rojas Hernández
+                                                                   N.E.             *
+
+
+                                                                  CRED.          HORAS
+ CLAVE MATERIA           UNIDAD DE APRENDIZAJE
+                                                                           H.T           H.P.
+                                                                    5
+    L41078       Instalaciones y Equipos (Grupo Optativa Redes)             2             1                          8:00-11:00                                                       TATC
+
+                                                                  RFC           ROHC760722
+  PROFESOR           M.T.I. Carlos Alberto Rojas Hernández
+                                                                   N.E.             *
+
