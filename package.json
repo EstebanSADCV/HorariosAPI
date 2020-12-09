@@ -4,12 +4,14 @@
   "description": "HorariosAPI",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pdf-to-text": "0.0.7"
+    "pdf-to-text": "0.0.7",
+    "plain-text-data-to-json": "^1.0.3"
   }
 }
