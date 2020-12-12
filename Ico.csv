@@ -1,0 +1,83 @@
+"Álgebra Lineal (Grupo TM)","Martes 9:00 2 Viernes 7:00 2"
+"Cálculo II (Grupo TM)","Lunes 11:00 2 Jueves 11:00 2"
+"Ecuaciones Diferenciales (Grupo TM)","Jueves 9:00 2 Viernes 9:00 2"
+"Epistemología (Grupo TM)","Lunes 7:00 2 Miercoles 7:00 2"
+"Inglés 5 (Grupo TM)","Lunes 9:00 2 Miercoles 9:00 2"
+"Programación II (Grupo M1)","Martes 7:00 2 Jueves 7:00 2"
+"Programación II (Grupo M2)","Martes 7:00 2 Jueves 7:00 2"
+"Química (Grupo TM)","Martes 11:00 2 Viernes 11:00 2"
+
+"Álgebra Lineal (Grupo TV)","Miercoles 16:00 2 Viernes 16:00 2"
+"Cálculo II (Grupo TV)","Martes 16:00 2 Miercoles 18:00 2"
+"Ecuaciones Diferenciales (Grupo TV)","Jueves 14:00 2 Viernes 14:00 2"
+"Epistemología (Grupo TV)","Lunes 16:00 2 Miercoles 14:00 2"
+"Inglés 5 (Grupo TV)","Martes 18:00 2 Jueves 16:00 2"
+"Programación II (Grupo V1)","Lunes 14:00 2 Martes 14:00 2"
+"Programación II (Grupo V2)","Lunes 14:00 2 Martes 14:00 2"
+"Química (Grupo TV)","Lunes 18:00 2 Jueves 18:00 2"
+
+
+"Cálculo 3 (Grupo TM)", "Martes 11:00 3"
+"Circuitos Eléctricos (Grupo TM)","Jueves 8:00 2 Viernes 8:00 2"
+"Fundamentos de Bases de Datos (Grupo TM)","Lunes 7:00 2 Miercoles 7:00 2"
+"Investigación de Operaciones (Grupo TM)","Lunes 12:00 2 Miercoles 9:00 2"
+"Lenguaje Ensamblador (Grupo TM)","Miercoles 11:00 2"
+"Programación Orientada a Objetos (Grupo TM)","Lunes 9:00 3 Jueves 10:00 2"
+"Transmisión de Datos (Grupo TM)","Martes 9:00 2 Viernes 11:00 3"
+"Inglés C2","Sabado 7:00 5"
+
+
+"Cálculo 3 (Grupo TV)","Lunes 17:00 3"
+"Circuitos Eléctricos (Grupo TV)","Miercoles 16:00 2 Viernes 16:00 3"
+"Fundamentos de Bases de Datos (Grupo TV)","Martes 16:00 2 Jueves 15:00 2"
+"Investigación de Operaciones (Grupo TV)","Miercoles 14:00 2 Viernes 14:00 2"
+"Lenguaje Ensamblador (Grupo TV)","Miercoles 18:00 2"
+"Programación Orientada a Objetos (Grupo TV)","Martes 18:00 2 Jueves 17:00 3"
+"Transmisión de Datos (Grupo TV)","Lunes 14:00 3 Miercoles 14:00 2"
+
+
+
+"Compiladores (Grupo TM)","Lunes 10:00 2 Miercoles 7:00 3"
+"Electrónica Digital (Grupo TM)","Jueves 10:00 2 Viernes 8:00 3"
+"Modelos de Redes (Grupo TM)","Miercoles 11:00 2 Jueves 12:00 2"
+"Sistemas Gestores de Bases de Datos (Grupo TM)","Martes 8:00 2 Jueves 8:00 2"
+"Sistemas Operativos (Grupo TM)","Lunes 7:00 3 Martes 12:00 2"
+"Teoría de Sistemas (Grupo TM)","Martes 10:00 2 Miercoles 10:00 1"
+"Tratamiento de Imágenes (Grupo TM)","Viernes 11:00 3"
+
+
+
+"Compiladores (Grupo TV)","Martes 16:00 2 Jueves 15:00 3"
+"Electrónica Digital (Grupo TV)","Miercoles 15:00 3 Jueves 13:00 2"
+"Modelos de Redes (Grupo TV)","Martes 18:00 2 Viernes 16:00 2"
+"Sistemas Gestores de Bases de Datos (Grupo TV)","Lunes 18:00 2 Miercoles 18:00 2"
+"Sistemas Operativos (Grupo TV)","Lunes 14:00 3 Martes 13:00 2"
+"Teoría de Sistemas (Grupo TV)","Martes 15:00 1 Viernes 14:00 2"
+"Tratamiento de Imágenes (Grupo TV)","Lunes 17:00 1 Jueves 18:00 2"
+
+
+
+"Administración y Seguridad de Sistemas Operativos (Grupo TM)","Miercoles 11:00 1 Jueves 10:00 2"
+"Análisis y Diseño de Redes (Grupo TM)","Martes 11:00 3 Viernes 9:00 2"
+"Arquitectura de Computadoras (Grupo TM)","Martes 9:00 2 Jueves 7:00 3"
+"Sistemas Digitales (Grupo TM)","Lunes 8:00 3 Viernes 11:00 3"
+"Programación Paralela y Distribuida (Grupo TM)","Lunes 11:00 3 Jueves 12:00 2"
+"Fundamentos de Robótica (Grupo TM)","Sabado 7:00 3"
+
+
+
+
+"Álgebra Lineal (Grupo R1)","Martes 11:00 3"
+"Cálculo 1 (Grupo R1)","Miercoles 11:00 2 Viernes 11:00 2"
+"Estructura de Datos (Grupo R1)","Lunes 10:00 2 Jueves 11:00 3"
+"Física Básica (Grupo R1)","Miercoles 11:30 2.5 Jueves 11:00 2"
+"Física Básica (Grupo R2)","Miercoles 14:00 2 Viernes 14:00 2.5"
+"Metrología (Grupo R1)","Martes 13:00 1"
+
+
+
+
+"Multimedia (Grupo Optativa IHM)","Lunes 12:00 2 Miercoles 13:00 2"
+"Algoritmos Genéticos (Grupo Optativa IHM)","Miercoles 8:00 3"
+"Interconexión de Redes (Grupo Optativa Redes)","Lunes 12:00 2 Miercoles 14:00 1"
+"Instalaciones y Equipos (Grupo Optativa Redes)","Miercoles 8:00 3"
